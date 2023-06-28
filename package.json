@@ -1,0 +1,22 @@
+{
+  "name": "lcd_display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "i2c-bus": "^5.2.2",
+    "mpu6050": "^0.1.4",
+    "oled-font-5x7": "^1.0.3",
+    "oled-i2c-bus": "^1.0.12",
+    "oled-js-pi": "^1.0.5",
+    "oled-rpi-i2c-bus": "^1.1.4",
+    "rpi-oled": "^0.9.1"
+  }
+}
